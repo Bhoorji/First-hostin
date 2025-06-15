@@ -1,2 +1,2 @@
 # First-hostin
-game
+work
